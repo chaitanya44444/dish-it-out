@@ -72,4 +72,4 @@ if __name__ == '__main__':
 1. [Flask Error Handling](https://flask.palletsprojects.com/en/2.0.x/errorhandling/)
 2. [Better Error Handling for Flask](https://www.youtube.com/watch?v=lYqxU4z5sHE) - Pretty Printed (YouTube)
 
-Remember to consult these resources if you get stuck or want to learn more about specific aspects of Flask and API development. Good luck, and happy coding!
+Remember to consult these resources if you get stuck or want to learn more about specific aspects of Flask and API development. Good luck, and happy coding!a
