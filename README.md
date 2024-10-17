@@ -38,7 +38,7 @@ if __name__ == '__main__':
 ```
 
 ## Getting Started
-1. Install Flask: `pip install flask`
+1. Install Flask: `pip install flask` - you should have Python installed already if you went through the [instructions](https://shriteq.org/task-force/instructions)
 2. Create a directory called 'dishes' in the same directory as your Python file
 3. Add some image files of dishes to the 'dishes' directory
 4. Implement the `random_dish()` function
