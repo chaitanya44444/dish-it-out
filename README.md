@@ -10,6 +10,9 @@ Create a Flask API that returns random pictures of dishes. Your API should have 
 4. Include basic documentation for your API
 5. Have at least 5 dishes
 
+## Submission
+Submit the Python file containing your Flask app on the link provided [here](https://shriteq.org/task-force/tasks)
+
 ## Starter Code
 
 ```python
